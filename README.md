@@ -2,4 +2,5 @@
 
 ![](images/preview.png)
 
+**Blog Page**
 ![](images/previewTwo.png)
