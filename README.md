@@ -1,4 +1,4 @@
-**[Live Site](https://xbayazid.github.io/news-portal-api/)**
+**[Live Site](https://deluxe-haupia-d7f337.netlify.app/)**
 
 ![](images/preview.png)
 
