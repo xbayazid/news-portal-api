@@ -54,7 +54,7 @@ const displayBlog = (datas , itemData) =>{
     const blogDiv = document.createElement('div');
     blogDiv.innerHTML = `
     <div class="container mt-5 p-5" style="background-color: pink; border-radius: 20px;">
-      <h1 class="text-center">No Data Found. Please Click anothe Option</h1>
+      <h1 class="text-center">No Data Found. Please Click another Option</h1>
     </div>
     
     `;
